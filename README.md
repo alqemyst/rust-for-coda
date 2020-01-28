@@ -1,2 +1,2 @@
-# rust-for-coda
-Rust syntax highlighting mode for Coda 2
+# Installation
+Clone then double-click Rust.mode.
